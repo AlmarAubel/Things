@@ -3,6 +3,6 @@
 ### Git context in bash
   of http://ohmyz.sh
   http://maximomussini.com/posts/bash-git-prompt/ 
-  ![alt text](http://maximomussini.com/images/posts/bash-git-prompt/git-prompt-default.png)
+  https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
 ### tricks in VS Code
   https://code.visualstudio.com/Docs/languages/javascript
