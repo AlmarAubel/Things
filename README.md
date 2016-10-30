@@ -5,6 +5,8 @@
   
   http://maximomussini.com/posts/bash-git-prompt/ 
   
+  https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/
+  
 ### tricks in VS Code
   https://code.visualstudio.com/Docs/languages/javascript
 
